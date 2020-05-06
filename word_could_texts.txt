@@ -1,0 +1,183 @@
+﻿I don’t know whether you know it or not… but there are a lot of misconceptions surrounding artificial intelligence. While some assume it means robots coming to life to interact with humans, other ones believe it is a superintelligence that soon will take over the world. Well, I consider this to be very discouraging. Not for me to explain the importance of knowing what AI is and what it can really do (especially if you are thinking about establishing your own AI expertise, or you are already using it).
+Today, I offer to take care of terminology and don’t be so naive anymore. In this article, I’ll aim to highlight some of the most necessary concepts in a clear, straightforward way.
+So, feel free to grab your coffee and a comfortable chair, and just dive in. Or use it as a reference anytime you want to brush up your knowledge.
+Artificial Intelligence and Machine Learning Terms A to Z:
+
+A
+Algorithm
+In simple terms, an algorithm is a strict and logical sequence of explicit, step-by-step instructions to solve any problem. Algorithms are elementary building blocks that make up machine learning and artificial intelligence. Very often algorithm operates as a sequence of simple if → then statements or a sequence of the more complex nerdy construct of numbers and commands. The goal of an algorithm is to teach AI, neural network, or other machines on how to figure things out on their own.
+Basic algorithms in machine learning: Clustering, Classification, Regression, and Recommendation.
+Analytical Validation
+The measure of the ability of a task to accurately and reliably generate the intended technical output, from the input data. Validation techniques in machine learning are used to get the error rate of the ML model. Most common validation techniques: Resubstitution, K-fold cross-validation, Random subsampling, Bootstrapping.
+Artificial general intelligence (AGI)
+General AI, artificial general intelligence (AGI), strong AI and superintelligence all basically refer to the same thing — a type of AI that is equal to or greater than human intelligence. We call it general because it will apply to all problems. The opposite of strong AI is weak AI. The opposite of general AI is narrow AI.
+The truth is, this is the kind of AI we’re used to seeing in blockbuster movies, we have not to reach this level of intelligence in real life. We call it strong because we imagine it will be strong than us, but it is nothing more than just an idea we don’t know how to realize yet.
+Artificial Intelligence (AI)
+“AI is the science and engineering of making intelligent machines, especially intelligent computer programs.” — Alan Turing
+AI is a subset of computer science that aims to build machines capable of doing human-like tasks: decision-making, object classification and detection, speech recognition and translation.
+Artificial intelligence and Machine learning are related. However, ML is a subset of AI and not vice versa. Both AI and ML are a set of algorithms, but ML can be fed only with structured data and AI can handle both structured and unstructured pieces of information in order to complete a task without being programmed how to do so.
+Artificial narrow intelligence (ANI)
+Artificial narrow intelligence (ANI), also known as weak AI, is a general purpose AI that refers to a computer’s ability to perform a single task extremely well, such as crawling a webpage or playing chess. Many currently existing AI-powered systems are likely operating as a weak AI focused on a narrowly defined specific problem (it used in building virtual assistants like Siri).
+Artificial neural network (ANN)
+A model used in AI that is inspired by, but not necessarily identical to, the biological neural networks that constitute animal brains. It consists of neural layers that are used for machine learning. Such systems “learn” to perform tasks by considering examples, generally without being programmed with any task-specific rules.
+Augmented Intelligence, also known as Intelligence Augmentation (IA)
+It is a complement — not a replacement — to human intelligence. It’s about helping humans become faster and smarter at the tasks they’re performing.
+B
+Backpropagation
+Backpropagation shorthand for “backward propagation of errors” is the way neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction. To propagate is to transmit something (light, sound, motion or information) in a particular direction or through a particular medium.
+Bayesian networks
+Also known as causal networks, belief network, and decision network, Bayesian Networks are graphical models for representing multivariate probability distributions. They aim to model conditional dependence, and therefore causation, by representing conditional dependence by edges in a directed graph.
+Big data
+Large amounts of structured and unstructured data that is too complex to be handled by standard data-processing software
+C
+Chatbots
+
+A chatbot is a program that is used to run the messenger interface. The main function is to recognize the request of the interlocutor and correctly respond to it. A chatbot simulates a real conversation with the user through text or voice messages.
+Chatbots use machine learning to identify communication patterns. Through constant interaction with people, they learn to imitate real conversations and respond to verbal or written inquiries, helping them find answers. Thus, after each dialogue, they become smarter.
+Classification
+In machine learning and statistics, classification is a supervised learning algorithm technique that allows machines to assign categories to data points (categorize data into a given number of classes). Classification (decision trees and neural network classifiers) can be used for text classification in marketing.
+Clustering
+Clustering is a Machine Learning technique that involves the grouping of data points. Clustering is a method of unsupervised learning and is a common technique for statistical data analysis used in many fields. Clustering is used with applications including customer segmentation, fast search, and visualization.
+Cognitive computing
+Cognitive computing (CC) is a computerized model that mimics human thought processes by data mining, NLP, and pattern recognition. Cognitive computing overlaps with AI and involves many of the same underlying technologies to power cognitive applications, including expert systems, neural networks, robotics and virtual reality (VR).
+
+Computer Aided Detection (CADe)
+Belongs to pattern recognition software that classifies suspicious features on the image and brings them to the attention of the radiologist, in order to decrease false negative readings.
+Computer Aided Diagnosis (CADx)
+Belongs to software that examines a radiographic finding to determine the likelihood that the feature renders a specific disease process (e.g. benign versus malignant).
+Computer vision
+
+Computer Vision is a field of Artificial Intelligence that is used to obtain information from images. Machine Learning algorithms such as K-means is used for Image Segmentation, Support Vector Machine is used for Image Classification and so on. Therefore Computer Vision makes use of AI technologies to solve complex problems such as Object Detection, Image Processing, etc. All-in-all, it is visual input from image files (JPEGs) or camera feeds.
+Confidence Interval
+An interval about a point estimate that quantifies the statistical uncertainty in the true value being estimated due to variability.
+Continuous Learning Systems (CLS)
+Systems that are inherently capable of learning from the real-world data and are able to update themselves automatically over time while in public use.
+Convolutional neural network (CNN)
+a type of neural network designed to map image data to an output variable. They have proven so effective that they are the go-to method for any type of prediction problem involving image data as an input. CNNs are used for analyzing, classifying, and clustering visual imagery by using multilayer perceptrons.
+D
+Data mining
+the process of sorting through large sets of data in order to identify recurring patterns while establishing problem-solving relationships.
+Deep learning
+
+The term Deep Learning is used to describe neural networks and the algorithms used for it that accept raw data (from which you need to extract some useful information). This data is processed by passing through the layers of the neural network to obtain the desired output.
+E
+Embodied AI
+The idea of embodied AI comes from that of embodied cognition which suggests that intelligence is as much a part of the body as it is a part of the brain. With this in mind, embodied AI (for example, bringing sensory input and robotics into the equation) has a beneficial effect on the cognitive function of the AI, allowing it to better understand its situation and surroundings for more thorough data analysis and response processing.
+Expert System
+A form of AI that attempts to replicate a human’s expertise in an area, such as medical diagnosis. It combines a knowledge base with a set of hand-coded rules for applying that knowledge. Machine-learning techniques are increasingly replacing hand coding.
+Explainable AI (X.A.I)
+Explainable AI (XAI) is artificial intelligence that is programmed to describe its purpose, rationale and decision-making process in a way that can be understood by the average person. The level of trust that’s appropriate for various types of decisions.
+F
+False Negative
+A test result that does not detect the condition when the condition is present.
+False Positive
+A test result that detects the condition when the condition is absent.
+Few-Shot Learning
+Normally, machine learning tasks like computer vision require the input of massive amounts of image data to train a system, however, the goal of few-shot (and even one-shot) learning is to create a system that greatly reduces the amount of training needed to learn.
+Forward Chaining
+A method where AI looks back and analyzes the rule-based system to find the “if” rules, and to determine which rules to use to find a solution.
+Friendly Artificial Intelligence (FIA)
+If the values of artificial general intelligence are aligned with our own, then it is known as friendly AI. In this hypothetical scenario, a friendly artificial intelligence would have a positive benefit on humanity. See also unfriendly artificial intelligence.
+G
+Generative adversarial networks (GAN)
+
+GAN is a type of neural network that can generate seemingly authentic photographs on a superficial scale to human eyes. GAN-generated images take elements of photographic data and shape them into realistic-looking images of people, animals, and places. GANs are basically made up of a system of two competing neural network models (generative models that use supervised learning). They compete with each other and are able to analyze, capture and copy the variations within a dataset.
+Genetic algorithm
+an algorithm based on principles of genetics that is used to efficiently and quickly find solutions to difficult problems
+H
+Heuristic Search Techniques
+The support that narrows down the search to optimal solutions for a problem by eliminating options that are incorrect.
+I
+Image recognition
+Image recognition is the ability of a system or software to identify objects, people, places, and actions in images. It uses machine vision technologies with artificial intelligence and trained algorithms to recognize images through a camera system.
+Inductive reasoning
+A logical process where multiple premises that are true or true most of the time, are combined to form a conclusion. Often used in prediction and forecasting.
+Intelligence Explosion
+A term coined for describing the eventual results of work on general artificial intelligence, which theorizes that this work will lead to a singularity in artificial intelligence where an “artificial superintelligence” surpasses the capabilities of human cognition.
+K
+Knowledge Engineering
+Knowledge engineering is a field of artificial intelligence (AI) that tries to emulate the judgment and behavior of a human expert in a given field. Knowledge engineering is the technology behind the creation of expert systems to assist with issues related to their programmed field of knowledge.
+L
+Limited memory
+systems with short-term memory limited to a given timeframe
+M
+Machine learning (ML)
+Machine learning is a set of algorithms that can be fed only with structured data in order to complete a task without being programmed how to do so. All those algorithms build a mathematical model, known as “training data”, in order to make predictions or decisions.
+While AI is a technique that enables machines to mimic human behavior, Machine Learning is a technique used to implement Artificial Intelligence. It is a certain process during which machines (computers) are learning by feeding them data and letting them learn a few tricks on their own, without being explicitly programmed to do so. So all-in-all, Machine Learning is the meat and potatoes of AI.
+Machine Perception
+Machine perception is the capability of a computer system to interpret data in a manner that is similar to the way humans use their senses to relate to the world around them. The basic method that the computers take in and respond to their environment is through the attached hardware.
+Machine translation
+Machine translation (MT) is an automated translation. It is the process by which computer software is used to translate a text from one natural language (such as English) to another (such as Spanish).
+N
+Narrow Intelligence
+Narrow AI is AI that is programmed to perform a single task — whether it’s checking the weather, being able to play chess, or analyzing raw data to write journalistic reports.
+Natural language processing (NLP)
+Natural Language Process, or NLP for short, is a field of study focused on the interactions between human language and computers. NLP helps machines “read” text by simulating the human ability to understand language. It sits at the intersection of computer science, artificial intelligence, and computational linguistics.
+Neural networks
+see Artificial neural networks
+Neuromorphic Chip
+A computer chip designed to act as a neural network. It can be analog, digital, or a combination.
+O
+Optical Character Recognition (OCR)
+Optical character recognition or optical character reader is the conversion of images of typed, handwritten or printed text into machine-encoded text, whether from a scanned document, a photo of a document, a scene-photo or from subtitle text superimposed on an image.
+P
+Pattern recognition
+Pattern recognition is the ability to detect arrangements of characteristics or data that yield information about a given system or data set. Pattern recognition is essential to many overlapping areas of IT, including big data analytics, biometric identification, security and artificial intelligence (AI).
+Perceptron
+An early type of neural network, developed in the 1950s. It received great hype but was then shown to have limitations, suppressing interest in neural nets for years.
+R
+Real Time Health Systems (RTHS)
+a next-gen care delivery system, wherein, the providers can share, adapt, and apply their medical mastery in real-time. It involves a collection of relevant information from different sources (devices, applications, e-records), which can, therefore, make decision making, fast.
+Recommendation Algorithms
+Algorithms that help machines suggest a choice based on its commonality with historical data.
+Recurrent neural network (RNN)
+A recurrent neural network is a class of artificial neural networks where connections between nodes form a directed graph along a temporal sequence. This allows it to exhibit temporal dynamic behavior. Unlike feedforward neural networks, RNNs can use their internal state to process sequences of inputs.
+Regression
+A statistical approach that estimates the relationships among variables and predicts future outcomes or items in a continuous data set by solving for the pattern of past inputs, such as linear regression in statistics. Regression is foundational to machine learning and artificial intelligence.
+Reinforcement learning
+“If intelligence was a cake, supervised learning would be the icing on the cake, and reinforcement learning would be the cherry on the cake.” — Yann LeCun, Founding Father of Convolutional Nets
+RL is a type of Machine Learning algorithms which allows software agents and machines to automatically determine the ideal behavior within a specific context, to maximize its performance. Reinforcement algorithms are not given explicit goals; instead, they are forced to learn these optimal goals by trial and error.
+RL, we have an agent that is moving around in an environment with the ability to take actions (like moving in a specific direction). This agent could be an algorithm, or a person, or an object. The action takes effect on the input that comes from the environment. Only once the agent is put through a few iterations can we tell how far away it is from achieving the end goal. When it comes to supervised learning, the input and output are already very well defined from the start.
+Robotic process automation (RPA)
+uses software with AI and ML capabilities to perform repetitive tasks once completed by humans.
+Robotics
+
+the branch of technology that deals with the design, construction, operation, and application of robots. Most robots today are used to do repetitive actions or jobs considered too dangerous for humans. A robot is ideal for going into a building that has a possible bomb. Robots are also used in factories to build things like cars, candy bars, and electronics.
+S
+Shadow learning
+A term used to describe a simplified form of deep learning, in which the search for key features of data is preceded by their processing by a person and entering into the system specific to the sphere to which this data relates. Such models are more “transparent” (in the sense of obtaining results) and high-performance due to the increase in time invested in the design of the system.
+Singularity
+
+The technological singularity is a hypothetical future point in time at which technological growth becomes uncontrollable and irreversible, resulting in unfathomable changes to human civilization.
+Strong AI
+see artificial general intelligence (AGI)
+Structured data
+
+clearly defined data with easily searchable patterns
+Superintelligence
+A superintelligence is a hypothetical agent that possesses intelligence far surpassing a level of general intelligence that massively exceeds our own.
+Supervised learning
+
+Deep learning can be supervised, semi-supervised or unsupervised. A supervised learning algorithm analyzes the training data and produces an inferred function, which can be used for mapping new examples.
+T
+Tensorflow
+
+TensorFlow is a free and open-source collection of software tools developed by Google for dataflow and differentiable programming across a range of tasks. It is open source, meaning anyone can use or improve it. Similar projects include Torch and Theano. TensorFlow is one of the best libraries to implement deep learning.
+Transfer learning
+A technique in machine learning in which an algorithm learns to perform one task, such as recognizing cars, and builds on that knowledge when learning a different but related task, such as recognizing cats.
+True Negative
+A test result that does not detect the condition when the condition is absent.
+True Positive
+A test result that detects the condition when the condition is present.
+Turing Test
+a test created by computer scientist Alan Turing (1950) to see if machines could exhibit intelligence equal to or indistinguishable from that of a human
+U
+Unfriendly Artificial Intelligence
+artificial general intelligence capable of causing great harm to humanity, and having goals that make it useful for the AI to do so.
+Unstructured data
+information that either does not have a pre-defined data model or is not organized in a pre-defined manner.
+Unsupervised learning
+the training of an artificial intelligence (AI) algorithm using information that is neither classified nor labeled and allowing the algorithm to act on that information without guidance. Unsupervised learning algorithms can perform more complex processing tasks than supervised learning systems.
+W
+Weak AI
+see Artificial narrow intelligence (ANI)
